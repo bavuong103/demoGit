@@ -1,0 +1,90 @@
+/* *{
+    background: #EAEAEC;
+} */
+
+.left-tab{
+    position: absolute;
+    color:#303841;
+    width: 350px;
+    height: auto;
+    left: 550px;
+    top:80px;
+    bottom: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #777777;
+}
+
+.right-tab{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    left: 980px;
+    top: 80px;
+    bottom: 100px;
+    padding: 15px;
+    border-radius: 10px;
+    background: #777777;
+ }
+
+ .des-tab-left{
+    /* Đưa văn bản tràn từ bên ngoài vào lại bên trong */
+    word-wrap: break-word;
+ }
+
+.price-left{
+    float:left;
+}
+
+
+ .button-add{
+   
+    margin-top:10px;
+    width: 130px;
+    height: 50px;
+    border-radius: 30px ;
+    border: 1px solid #F6C90E;
+    float:right;
+    background-color: #F6C90E;
+ }
+
+ .text-add{
+   text-decoration: none;
+   padding-left:10px;
+ }
+
+ .title-cart{
+    float:left;
+ }
+
+ .title-price{
+    float:right;
+ }
+
+.test{
+    padding-bottom:30px;
+}
+
+ .img-right{
+    float: left;
+    height: 50px;
+    width: 150px;
+    /* margin-top:30px; */
+    padding-top:55px;
+    padding-bottom: 60px;
+    /* padding-left: 0px; */
+    /* left:350px;   */
+ }
+
+ .products-right{
+    float: right;
+    /* position: absolute; */
+    height: 150px;
+    width: 195px;
+    /* margin-top:30px;
+    padding-left: 0px; */
+    padding-top:30px;
+    /* font-size: 15px; */
+ }
+
+ 
